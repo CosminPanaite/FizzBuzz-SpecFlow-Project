@@ -1,0 +1,15 @@
+C:\Users\Panaite Cosmin\source\repos\FizzBuzzProblem\FizzBuzzProblem\bin\Debug\net6.0\FizzBuzzProblem.deps.json
+C:\Users\Panaite Cosmin\source\repos\FizzBuzzProblem\FizzBuzzProblem\bin\Debug\net6.0\FizzBuzzProblem.dll
+C:\Users\Panaite Cosmin\source\repos\FizzBuzzProblem\FizzBuzzProblem\bin\Debug\net6.0\FizzBuzzProblem.pdb
+C:\Users\Panaite Cosmin\source\repos\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net6.0\FizzBuzzProblem.csproj.AssemblyReference.cache
+C:\Users\Panaite Cosmin\source\repos\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net6.0\FizzBuzzProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panaite Cosmin\source\repos\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net6.0\FizzBuzzProblem.AssemblyInfoInputs.cache
+C:\Users\Panaite Cosmin\source\repos\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net6.0\FizzBuzzProblem.AssemblyInfo.cs
+C:\Users\Panaite Cosmin\source\repos\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net6.0\FizzBuzzProblem.csproj.CoreCompileInputs.cache
+C:\Users\Panaite Cosmin\source\repos\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net6.0\FizzBuzzProblem.dll
+C:\Users\Panaite Cosmin\source\repos\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net6.0\refint\FizzBuzzProblem.dll
+C:\Users\Panaite Cosmin\source\repos\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net6.0\FizzBuzzProblem.pdb
+C:\Users\Panaite Cosmin\source\repos\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net6.0\ref\FizzBuzzProblem.dll
+C:\Users\Panaite Cosmin\source\repos\FizzBuzzProblem\FizzBuzzProblem\bin\Debug\net6.0\FizzBuzzProblem.Library.dll
+C:\Users\Panaite Cosmin\source\repos\FizzBuzzProblem\FizzBuzzProblem\bin\Debug\net6.0\FizzBuzzProblem.Library.pdb
+C:\Users\Panaite Cosmin\source\repos\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net6.0\FizzBuzzProblem.csproj.CopyComplete

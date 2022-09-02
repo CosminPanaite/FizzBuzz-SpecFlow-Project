@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FizzBuzzProblemSolution/1.0.0": {
+        "dependencies": {
+          "FizzBuzzProblem.Library": "1.0.0"
+        },
+        "runtime": {
+          "FizzBuzzProblemSolution.dll": {}
+        }
+      },
+      "FizzBuzzProblem.Library/1.0.0": {
+        "runtime": {
+          "FizzBuzzProblem.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FizzBuzzProblemSolution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FizzBuzzProblem.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
